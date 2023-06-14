@@ -11,6 +11,8 @@ This will startup the chroma vector database.
 
 Rename `.env.example` to `.env` and add your OpenAI API key to the `.env` file.
 
+Put your text documents into the `documents` folder. Create it if it doesn't exist.
+
 Next, open up another terminal and run:
 
 ```bash
