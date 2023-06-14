@@ -24,3 +24,7 @@ Wait for the packages to install, then run:
 ```bash
 yarn start
 ```
+
+### Credit
+
+Python version of this repo -> https://github.com/imartinez/privateGPT
